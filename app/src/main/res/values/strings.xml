@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RestaurantApp</string>
+    <string name="menu">Menu</string>
+    <string name="email">E-mail</string>
+    <string name="pass">Password</string>
+    <string name="confirmPass">Confirm password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="create">Create user</string>
+    <string name="first">First time as our client? Register here.</string>
+    <string name="details">Details</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">Logout</string>
+    <string name="itemNameLabel">Name</string>
+    <string name="quantityLabel">Quantity(g)</string>
+    <string name="priceLabel">Price(lei)</string>
+    <string name="ingredeientsLabel">Ingredients</string>
+    <string name="addToCart">Add to cart</string>
+    <string name="quantityLabelDrink">Quantity(ml)</string>
+    <string name="cart">Cart</string>
+    <string name="orderLabel">Your order</string>
+    <string name="total">TOTAL</string>
+    <string name="place_order">Place order</string>
+
+</resources>
